@@ -1,12 +1,12 @@
 {
-  "author": "Roman Shtylman <shtylman@gmail.com>",
-  "name": "localtunnel",
-  "description": "expose localhost to the world",
+  "author": "Andrzej Raczkowski <araczkowski@gmail.com>",
+  "name": "dom-tunnel",
+  "description": "expose dom webhooks",
   "version": "1.9.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/localtunnel/localtunnel.git"
+    "url": "git://github.com/araczkowski/localtunnel.git"
   },
   "dependencies": {
     "axios": "0.17.1",

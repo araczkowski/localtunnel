@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/data/data/pl.sviete.dom/files/usr/bin/env node
 var lt_client = require('../client');
 var open_url = require('openurl');
 
