@@ -1,5 +1,10 @@
 # UNRELEASED
 
+# 1.9.2 (2019-02-01)
+
+* remove openurl from dependencies - to run on Android
+
+
 # 1.9.1 (2018-09-08)
 
 * Update debug to 2.6.9

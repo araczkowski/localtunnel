@@ -1,8 +1,8 @@
 {
   "author": "Andrzej Raczkowski <araczkowski@gmail.com>",
   "name": "dom-tunnel",
-  "description": "expose dom webhooks",
-  "version": "1.9.1",
+  "description": "expose ais dom webapp",
+  "version": "1.9.2",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -11,7 +11,6 @@
   "dependencies": {
     "axios": "0.17.1",
     "debug": "2.6.9",
-    "openurl": "1.1.1",
     "yargs": "6.6.0"
   },
   "devDependencies": {
