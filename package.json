@@ -1,5 +1,5 @@
 {
-  "author": "Andrzej Raczkowski <araczkowski@gmail.com>",
+  "author": "Roman Shtylman <shtylman@gmail.com>",
   "name": "dom-tunnel",
   "description": "expose ais dom webapp",
   "version": "2.0.0",
@@ -8,7 +8,6 @@
     "type": "git",
     "url": "git://github.com/araczkowski/localtunnel.git"
   },
-  "author": "Roman Shtylman <shtylman@gmail.com>",
   "contributors": [
     "Roman Shtylman <shtylman@gmail.com>",
     "Gert Hengeveld <gert@hichroma.com>",
@@ -27,7 +26,7 @@
     "yargs": "13.3.0"
   },
   "devDependencies": {
-    "mocha": "~1.17.0"
+    "mocha": "~7.1.2"
   },
   "engines": {
     "node": ">=8.3.0"

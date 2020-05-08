@@ -25,6 +25,13 @@ lt --port 8000
 Thats it! It will connect to the tunnel server, setup the tunnel, and tell you what url to use for your testing. This url will remain active for the duration of your session.
 
 
+## Test
+
+```
+./bin/lt.js -h http://xxx.yyy -p 8180 -s dom-test
+```
+
+
 ## License
 
 MIT

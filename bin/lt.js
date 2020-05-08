@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 /* eslint-disable no-console */
 
-const openurl = require('openurl');
 const yargs = require('yargs');
 
 const localtunnel = require('../localtunnel');
@@ -92,9 +91,6 @@ if (typeof argv.port !== 'number') {
     console.log('your cachedUrl is: %s', tunnel.cachedUrl);
   }
 
-  if (argv.open) {
-    openurl.open(tunnel.url);
-  }
 
   if (argv['print-requests']) {
     tunnel.on('request', info => {
